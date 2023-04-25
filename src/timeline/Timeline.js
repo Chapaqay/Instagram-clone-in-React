@@ -6,32 +6,32 @@ import "./Timeline.css";
 function Timeline() {
   const [posts, setPosts] = useState([
     {
-      user: "redian_",
+      user: "pavilion_20",
       postImage:
         "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg",
       likes: 54,
-      timestamp: "2d",
+      timestamp: " 26m",
     },
     {
-      user: "johndoe",
+      user: "Alish2006",
       postImage:
         "https://images.unsplash.com/photo-1575936123452-b67c3203c357?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8aW1hZ2V8ZW58MHx8MHx8&w=1000&q=80",
       likes: 432,
-      timestamp: "2d",
+      timestamp: " 18h",
     },
     {
-      user: "mariussss",
+      user: "wdnsd_20",
       postImage:
         "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png",
       likes: 140,
-      timestamp: "2d",
+      timestamp: " 2d",
     },
     {
-      user: "kobee_18",
+      user: "pantera30",
       postImage:
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGCAaQ5u1TMTij5ELPWi5-VPtlSqELw-R6lj0EpYmNcGt56kOQaCokzS0IK81MOSphlkw&usqp=CAU",
+        "https://iso.500px.com/wp-content/uploads/2016/11/stock-photo-159533631-1500x1000.jpg",
       likes: 14,
-      timestamp: "2d",
+      timestamp: " 3d",
     },
   ]);
 

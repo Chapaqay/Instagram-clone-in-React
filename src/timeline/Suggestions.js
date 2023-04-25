@@ -10,7 +10,7 @@ function Suggestions() {
         <div className="suggestions__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>M</Avatar>
             </span>
             <div className="username__info">
               <span className="username">musulman_1020</span>
@@ -23,7 +23,7 @@ function Suggestions() {
         <div className="suggestions__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>S</Avatar>
             </span>
             <div className="username__info">
               <span className="username">shohrux_archive</span>
@@ -36,7 +36,7 @@ function Suggestions() {
         <div className="suggestions__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>k</Avatar>
             </span>
             <div className="username__info">
               <span className="username">khujaev_04</span>
@@ -49,7 +49,7 @@ function Suggestions() {
         <div className="suggestions__username">
           <div className="username__left">
             <span className="avatar">
-              <Avatar>R</Avatar>
+              <Avatar>S</Avatar>
             </span>
             <div className="username__info">
               <span className="username">samandarbek2008</span>

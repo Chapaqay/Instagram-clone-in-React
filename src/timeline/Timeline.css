@@ -1,15 +1,13 @@
 .timeline {
   display: flex;
   flex-direction: row;
+  align-self: center;
 }
 
 .timeline__left {
-  flex: 0.7;
+  flex: 2.7;
 }
 
 .timeline__right {
   flex: 0.3;
-}
-
-.timeline__posts {
 }
