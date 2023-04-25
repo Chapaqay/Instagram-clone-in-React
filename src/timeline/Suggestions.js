@@ -13,7 +13,7 @@ function Suggestions() {
               <Avatar>R</Avatar>
             </span>
             <div className="username__info">
-              <span className="username">redian_</span>
+              <span className="username">musulman_1020</span>
               <span className="relation">New to Instagram</span>
             </div>
           </div>
@@ -26,7 +26,7 @@ function Suggestions() {
               <Avatar>R</Avatar>
             </span>
             <div className="username__info">
-              <span className="username">redian_</span>
+              <span className="username">shohrux_archive</span>
               <span className="relation">New to Instagram</span>
             </div>
           </div>
@@ -39,7 +39,7 @@ function Suggestions() {
               <Avatar>R</Avatar>
             </span>
             <div className="username__info">
-              <span className="username">redian_</span>
+              <span className="username">khujaev_04</span>
               <span className="relation">New to Instagram</span>
             </div>
           </div>
@@ -52,7 +52,7 @@ function Suggestions() {
               <Avatar>R</Avatar>
             </span>
             <div className="username__info">
-              <span className="username">redian_</span>
+              <span className="username">samandarbek2008</span>
               <span className="relation">New to Instagram</span>
             </div>
           </div>
